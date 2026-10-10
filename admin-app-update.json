@@ -1,0 +1,11 @@
+{
+  "versionCode": 162,
+  "versionName": "2.62",
+  "applicationId": "ru.igrorum.admin.debug",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v174.apk",
+  "sha256": "133d2efaed5eee5e7f6761af60ca9a8e11c87c7fd01d1ade2a1b1ea5ce91177d",
+  "notes": "Обновления скачиваются прямо в приложении с прогрессом. Резервный источник — GitHub. Перед установкой проверяются файл и подпись. Установка подтверждается в Android.",
+  "mirrorUrls": [
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.62/igrorum-admin-v174.apk"
+  ]
+}
