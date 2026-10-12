@@ -1,11 +1,11 @@
 {
-  "versionCode": 163,
-  "versionName": "2.63",
+  "versionCode": 164,
+  "versionName": "2.64",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v175.apk",
-  "sha256": "196d3a7d628e42ff27ca5232c1012d5f46b9da4477b7f557f5691a9922b64b00",
-  "notes": "Исправлены посещения на экране Деньги: загрузка независимо от рекламы и аналитики. Расчёты выбранных периодов сохраняются, ошибки показываются с повторной загрузкой. Пустые ответы больше не превращаются в нули.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v176.apk",
+  "sha256": "bee98932bced6919d2ef2c853c7d64177b8facfcb518c0b682b3db99bdd2ba1a",
+  "notes": "VK Реклама: статус и бюджет кампании, показы, переходы, расходы, цели оплаты, группы и объявления. Отдельная загрузка и последние данные при сбоях.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.63/igrorum-admin-v175.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.64/igrorum-admin-v176.apk"
   ]
 }
