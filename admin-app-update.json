@@ -1,11 +1,11 @@
 {
-  "versionCode": 164,
-  "versionName": "2.64",
+  "versionCode": 165,
+  "versionName": "2.65",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v176.apk",
-  "sha256": "bee98932bced6919d2ef2c853c7d64177b8facfcb518c0b682b3db99bdd2ba1a",
-  "notes": "VK Реклама: статус и бюджет кампании, показы, переходы, расходы, цели оплаты, группы и объявления. Отдельная загрузка и последние данные при сбоях.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v177.apk",
+  "sha256": "a038b0c8f0db48b6e948a5408476a5b890fbb7dce7e8c5baa1bc39d8fa9dd6ae",
+  "notes": "Сравнение Яндекс Рекламы и VK за общий период: расходы, переходы, заходы, подтверждённые банком брони и выручка. Раздельные ошибки и сохранённые данные сервисов.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.64/igrorum-admin-v176.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.65/igrorum-admin-v177.apk"
   ]
 }
