@@ -1,11 +1,11 @@
 {
-  "versionCode": 162,
-  "versionName": "2.62",
+  "versionCode": 163,
+  "versionName": "2.63",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v174.apk",
-  "sha256": "133d2efaed5eee5e7f6761af60ca9a8e11c87c7fd01d1ade2a1b1ea5ce91177d",
-  "notes": "Обновления скачиваются прямо в приложении с прогрессом. Резервный источник — GitHub. Перед установкой проверяются файл и подпись. Установка подтверждается в Android.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v175.apk",
+  "sha256": "196d3a7d628e42ff27ca5232c1012d5f46b9da4477b7f557f5691a9922b64b00",
+  "notes": "Исправлены посещения на экране Деньги: загрузка независимо от рекламы и аналитики. Расчёты выбранных периодов сохраняются, ошибки показываются с повторной загрузкой. Пустые ответы больше не превращаются в нули.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.62/igrorum-admin-v174.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.63/igrorum-admin-v175.apk"
   ]
 }
