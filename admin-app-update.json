@@ -1,11 +1,11 @@
 {
-  "versionCode": 165,
-  "versionName": "2.65",
+  "versionCode": 190,
+  "versionName": "2.90",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v177.apk",
-  "sha256": "a038b0c8f0db48b6e948a5408476a5b890fbb7dce7e8c5baa1bc39d8fa9dd6ae",
-  "notes": "Сравнение Яндекс Рекламы и VK за общий период: расходы, переходы, заходы, подтверждённые банком брони и выручка. Раздельные ошибки и сохранённые данные сервисов.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v202.apk",
+  "sha256": "c618f49480a861777591672aca112985c082ad632f4ddcdf26951615bd064bde",
+  "notes": "Игра без даты: сохранение оплаченной игры из карточки брони; гость сам назначает время в кабинете. Без повторного платежа, с подтверждением даты и письмами.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.65/igrorum-admin-v177.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.90/igrorum-admin-v202.apk"
   ]
 }
