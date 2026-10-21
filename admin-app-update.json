@@ -1,11 +1,11 @@
 {
-  "versionCode": 192,
-  "versionName": "2.92",
+  "versionCode": 193,
+  "versionName": "2.93",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v204.apk",
-  "sha256": "22553194bbc27733aa32b884ed4436c108661734a36933f3bef4eacc4e8bbfdc",
-  "notes": "В поддержке можно отправить свой ответ и сохранить оплаченную игру без даты. Доступны прошедшие брони; клиент выбирает время в кабинете и затем может перенести игру.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v205.apk",
+  "sha256": "0dbd5b085b4af1e0849ba30afcc96940590a35ee759cb87afe7188ee4d30ec2f",
+  "notes": "В поддержке выбирайте нужную игру чекбоксом: сохранение без даты, перенос или запрос частичного возврата с указанной суммой. Возврат оформляется вручную в Т-Банке.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.92/igrorum-admin-v204.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.93/igrorum-admin-v205.apk"
   ]
 }
