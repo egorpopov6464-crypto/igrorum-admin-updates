@@ -1,11 +1,11 @@
 {
-  "versionCode": 191,
-  "versionName": "2.91",
+  "versionCode": 192,
+  "versionName": "2.92",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v203.apk",
-  "sha256": "e58d73e6ce6f35796effd7e33a5a518ce407240709e092ae98495b243d7ddbc2",
-  "notes": "Игра без даты: ручное сохранение оплаченной длительности без доплаты. Для тарифа299₽ — только будни; выходные запрещены и на сайте, и на сервере. Выбор доплаты убран.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v204.apk",
+  "sha256": "22553194bbc27733aa32b884ed4436c108661734a36933f3bef4eacc4e8bbfdc",
+  "notes": "В поддержке можно отправить свой ответ и сохранить оплаченную игру без даты. Доступны прошедшие брони; клиент выбирает время в кабинете и затем может перенести игру.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.91/igrorum-admin-v203.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.92/igrorum-admin-v204.apk"
   ]
 }
