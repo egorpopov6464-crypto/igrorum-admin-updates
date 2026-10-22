@@ -1,11 +1,11 @@
 {
-  "versionCode": 194,
-  "versionName": "2.94",
+  "versionCode": 195,
+  "versionName": "2.95",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v206.apk",
-  "sha256": "c70ea2ed12e6130b154ee07a547712619670af4326ebebfbd7183ca8ffbcd0a3",
-  "notes": "Возвраты открываются прямо с экрана «Сегодня». В деталях — полный номер заказа b:…, PaymentId, сумма и кнопки копирования. Такие же номера добавлены в уведомления Telegram.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v207.apk",
+  "sha256": "7cb2786ff9344cc6f88050e88fa8ede806827a754e623c14190158cfe69f7578",
+  "notes": "Действия с бронью перенесены в меню ⋮ справа вверху: перенос, сокращение и сохранение без даты. Карточки на экране «Сегодня» стали компактнее. Включает номера платежей для возвратов из версии 2.94.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.94/igrorum-admin-v206.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.95/igrorum-admin-v207.apk"
   ]
 }
