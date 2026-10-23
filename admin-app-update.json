@@ -1,11 +1,11 @@
 {
-  "versionCode": 195,
-  "versionName": "2.95",
+  "versionCode": 196,
+  "versionName": "2.96",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v207.apk",
-  "sha256": "7cb2786ff9344cc6f88050e88fa8ede806827a754e623c14190158cfe69f7578",
-  "notes": "Действия с бронью перенесены в меню ⋮ справа вверху: перенос, сокращение и сохранение без даты. Карточки на экране «Сегодня» стали компактнее. Включает номера платежей для возвратов из версии 2.94.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v208.apk",
+  "sha256": "a4982aa0084e2a959fb79f8c2ec79eef40e5b9de36179fe51a1664d78221350d",
+  "notes": "Исправлены отчёты VK и Директа: корректные периоды расходов VK, дневной бюджет, очередь запросов и сохранение последнего отчёта. Недоступные конверсии показаны прочерком.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.95/igrorum-admin-v207.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.96/igrorum-admin-v208.apk"
   ]
 }
