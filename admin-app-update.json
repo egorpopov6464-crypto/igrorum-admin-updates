@@ -1,11 +1,11 @@
 {
-  "versionCode": 196,
-  "versionName": "2.96",
+  "versionCode": 210,
+  "versionName": "3.10",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v208.apk",
-  "sha256": "a4982aa0084e2a959fb79f8c2ec79eef40e5b9de36179fe51a1664d78221350d",
-  "notes": "Исправлены отчёты VK и Директа: корректные периоды расходов VK, дневной бюджет, очередь запросов и сохранение последнего отчёта. Недоступные конверсии показаны прочерком.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v222.apk",
+  "sha256": "25af51b280aaa58c7a2cc9b1352ab221cf8cb391ca27076438755a05ada0fbd7",
+  "notes": "Исправлены финансовые отчеты и оплаты в пути. Выбранный день или неделя сохраняются при входе и обновлении; устаревшие ответы не заменяют свежие данные.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v2.96/igrorum-admin-v208.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.10/igrorum-admin-v222.apk"
   ]
 }
