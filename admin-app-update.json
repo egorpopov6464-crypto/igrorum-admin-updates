@@ -1,11 +1,11 @@
 {
-  "versionCode": 210,
-  "versionName": "3.10",
+  "versionCode": 211,
+  "versionName": "3.11",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v222.apk",
-  "sha256": "25af51b280aaa58c7a2cc9b1352ab221cf8cb391ca27076438755a05ada0fbd7",
-  "notes": "Исправлены финансовые отчеты и оплаты в пути. Выбранный день или неделя сохраняются при входе и обновлении; устаревшие ответы не заменяют свежие данные.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v223.apk",
+  "sha256": "0018b020b143a3246a0c27605c5ec05290c3d0ed2df9a9458ecd3d0c53baeb45",
+  "notes": "Финансы: налог по АУСН «доходы минус расходы» с 1 ноября",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.10/igrorum-admin-v222.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.11/igrorum-admin-v223.apk"
   ]
 }
