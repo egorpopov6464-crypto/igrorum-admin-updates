@@ -1,11 +1,11 @@
 {
-  "versionCode": 212,
-  "versionName": "3.12",
+  "versionCode": 213,
+  "versionName": "3.13",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v224.apk",
-  "sha256": "d8c5ebc4bf4185211ddf4512082b3dba518b7d73b05fd80155259ee154186719",
-  "notes": "Финансы: время и деньги в одной компактной шкале. Прогноз покрытия расходов и нужной выручки в день — по нажатию.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v225.apk",
+  "sha256": "6bb83346b2f88c64e2d55ac436f6f922a094e9c854b4147e6ef066fc7b374940",
+  "notes": "Финансы: разовые расходы остаются в своём расчётном периоде. Видимая дата покупки, выбор даты и список ручных расходов выбранного периода.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.12/igrorum-admin-v224.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.13/igrorum-admin-v225.apk"
   ]
 }
