@@ -1,11 +1,11 @@
 {
-  "versionCode": 215,
-  "versionName": "3.15",
+  "versionCode": 216,
+  "versionName": "3.16",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v227.apk",
-  "sha256": "64e080fb9324e320bd81bf8767fab67431df6586a2b9fb90dac9e097c00b814c",
-  "notes": "Деньги: расчётный период с 20-го по 19-е выбран по умолчанию. Сводка и оба графика перестраиваются вместе с неделей, месяцем и годом. Показаны точные даты; будущие интервалы отделены от фактических данных.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v228.apk",
+  "sha256": "6fa2f4194afd8e6cfe5b6704fa874725f14a006c0c68b1a76b1119d38d693272",
+  "notes": "Релизная сборка: удалены отладочные компоненты редактора интерфейса. Сохранены установка поверх прежней версии и изменения экрана «Деньги».",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.15/igrorum-admin-v227.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.16/igrorum-admin-v228.apk"
   ]
 }
