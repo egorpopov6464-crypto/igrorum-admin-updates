@@ -1,11 +1,11 @@
 {
-  "versionCode": 213,
-  "versionName": "3.13",
+  "versionCode": 214,
+  "versionName": "3.14",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v225.apk",
-  "sha256": "6bb83346b2f88c64e2d55ac436f6f922a094e9c854b4147e6ef066fc7b374940",
-  "notes": "Финансы: разовые расходы остаются в своём расчётном периоде. Видимая дата покупки, выбор даты и список ручных расходов выбранного периода.",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v226.apk",
+  "sha256": "4a71a8b0bce50a03bcbf9779f649982ccbd3a0f12c21aebbffc25212297ff17e",
+  "notes": "Отзывы: отключённые промокоды сохраняют свой статус. Правка ответа не меняет скидки; ошибки не теряют текст. Защита от повторного сохранения и запоздалых ответов при смене периода.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.13/igrorum-admin-v225.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.14/igrorum-admin-v226.apk"
   ]
 }
