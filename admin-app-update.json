@@ -1,11 +1,11 @@
 {
-  "versionCode": 216,
-  "versionName": "3.16",
+  "versionCode": 217,
+  "versionName": "3.17",
   "applicationId": "ru.igrorum.admin.debug",
-  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v228.apk",
-  "sha256": "6fa2f4194afd8e6cfe5b6704fa874725f14a006c0c68b1a76b1119d38d693272",
-  "notes": "Релизная сборка: удалены отладочные компоненты редактора интерфейса. Сохранены установка поверх прежней версии и изменения экрана «Деньги».",
+  "downloadUrl": "https://igrorum.ru/downloads/igrorum-admin-v229.apk",
+  "sha256": "62852f128ccba8fdfb9b147f5ca152c68b9b293293642f40de177e77c31d220b",
+  "notes": "Одна карточка игры с продлениями и составом компании. Оплаты доступны через три точки. На графике явно подписан выбранный день.",
   "mirrorUrls": [
-    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.16/igrorum-admin-v228.apk"
+    "https://github.com/egorpopov6464-crypto/igrorum-admin-updates/releases/download/v3.17/igrorum-admin-v229.apk"
   ]
 }
